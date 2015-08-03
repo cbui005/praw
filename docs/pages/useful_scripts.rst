@@ -134,6 +134,9 @@ this page to add in more.
 `ButtsBot`_ by `Judson Dunaway-Barlow <https://github.com/jadunawa>`_
     A silly bot that posts a picture of a (clothed) butt from the Astros team whenever somebody in the /r/Astros subreddit       uses any of a few certain keywords in a comment.
 
+`Spotify_Search <https://github.com/cbui005/spotify_search>`_
+    Spotify_Search is a bot that listens to specific music subreddits and when called upon, replies with the appropriate         song's Spotify link.
+
 **\<Your Script Here\>**
     Edit `this page on github <https://github.com/praw-dev/praw/blob/master/
     docs/pages/useful_scripts.rst>`_ to add your script to this list.
